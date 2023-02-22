@@ -1,0 +1,1717 @@
+{
+  "0": {
+    "type": "root",
+    "name": "root",
+    "attribs": {},
+    "children": [
+      {
+        "name": "!doctype",
+        "data": "!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\"",
+        "type": "directive",
+        "next": {
+          "data": "\n",
+          "type": "text",
+          "next": {
+            "type": "tag",
+            "name": "html",
+            "attribs": {},
+            "children": [
+              {
+                "data": "\n",
+                "type": "text",
+                "next": {
+                  "type": "tag",
+                  "name": "head",
+                  "attribs": {},
+                  "children": [
+                    {
+                      "data": "\n\t",
+                      "type": "text",
+                      "next": {
+                        "type": "tag",
+                        "name": "title",
+                        "attribs": {},
+                        "children": [
+                          {
+                            "data": "QDB: Quote Database Home",
+                            "type": "text",
+                            "next": null,
+                            "prev": null
+                          }
+                        ],
+                        "next": {
+                          "data": "\n\t",
+                          "type": "text",
+                          "next": {
+                            "type": "tag",
+                            "name": "meta",
+                            "attribs": {
+                              "http-equiv": "Content-Type",
+                              "content": "text/html; charset=iso-8859-1"
+                            },
+                            "children": [],
+                            "next": {
+                              "data": "\n\t",
+                              "type": "text",
+                              "next": {
+                                "type": "style",
+                                "name": "style",
+                                "attribs": {
+                                  "type": "text/css"
+                                },
+                                "children": [
+                                  {
+                                    "data": "\n\t<!--\n\t\t.smalltext {font-family: arial, helvetica, sans-serif;font-size: 10px;background-color: #f0f0f0;color: #000000}\n\t\t.seltext {font-family: arial, helvetica, sans-serif;font-size: 10px;background-color: #ffffff;color: #000000}\t\n\t\tinput.text {color: #000000; background-color: #ffffff;}\n\t\ttextarea {color: #000000; background-color: #ffffff;}\n\t\tselect {color: #000000; background-color: #ffffff;}\n\t\t.qt {\n\t\t\tfont-family: courier new, lucida console, fixed;\n\t\t\tfont-size: 10pt;\n\t\t\tmargin-top: 0px;\n\t\t}\n\t\t.qa {\n\t\t\tfont-family: default;\n\t\t\tfont-size: 8pt;\n\t\t\ttext-decoration: none;\n\t\t}\n\t\tinput.button {\n\t\t\tbackground-color: #c08000;\n\t\t\tcolor: #000000;\n\t\t}\n\t\tp.quote {\n\t\t\tfont-family: courier new, lucida console, fixed;\n\t\t\tfont-size: smaller;\n\t\t\tmargin-bottom: 0px;\n\t\t}\n\t\t.bodytext {\n\t\t\tfont-family: arial, helvetica, sans-serif;\n\t\t\tline-height: 21px;\n\t\t\tfont-size: smaller;\n\t\t\tcolor: #000000;\n\t\t}\n\t\t.footertext {\n\t\t\tfont-family: arial, helvetica, sans-serif;\n\t\t\tfont-size: smaller;\n\t\t}\n\t\t.toplinks {\n\t\t\tfont-family: arial, helvetica, sans-serif;\n\t\t\tcolor: #000000;\n\t\t\tfont-size: smaller;\n\t\t}\n\t\t.topnum {font-family: arial, helvetica, sans-serif; color: #000000;}\n\n\t-->\n\t",
+                                    "type": "text",
+                                    "next": null,
+                                    "prev": null
+                                  }
+                                ],
+                                "next": {
+                                  "data": "\n\n\n",
+                                  "type": "text",
+                                  "next": null
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "prev": null
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                  ],
+                  "next": {
+                    "data": "\n\n",
+                    "type": "text",
+                    "next": {
+                      "type": "tag",
+                      "name": "body",
+                      "attribs": {
+                        "bgcolor": "#ffffff",
+                        "text": "#000000",
+                        "link": "#c08000",
+                        "vlink": "#c08000",
+                        "alink": "#c08000"
+                      },
+                      "children": [
+                        {
+                          "data": "\n",
+                          "type": "text",
+                          "next": {
+                            "type": "script",
+                            "name": "script",
+                            "attribs": {},
+                            "children": [
+                              {
+                                "data": "\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-91754139-2', 'auto');\n  ga('send', 'pageview');\n\n",
+                                "type": "text",
+                                "next": null,
+                                "prev": null
+                              }
+                            ],
+                            "next": {
+                              "data": "\n",
+                              "type": "text",
+                              "next": {
+                                "type": "tag",
+                                "name": "form",
+                                "attribs": {
+                                  "action": "./?",
+                                  "name": "tsearch"
+                                },
+                                "children": [
+                                  {
+                                    "data": "\n",
+                                    "type": "text",
+                                    "next": {
+                                      "type": "tag",
+                                      "name": "center",
+                                      "attribs": {},
+                                      "children": [
+                                        {
+                                          "data": "\n",
+                                          "type": "text",
+                                          "next": {
+                                            "type": "tag",
+                                            "name": "table",
+                                            "attribs": {
+                                              "cellpadding": "2",
+                                              "cellspacing": "0",
+                                              "width": "80%",
+                                              "border": "0"
+                                            },
+                                            "children": [
+                                              {
+                                                "data": "\n\t",
+                                                "type": "text",
+                                                "next": {
+                                                  "type": "tag",
+                                                  "name": "tr",
+                                                  "attribs": {},
+                                                  "children": [
+                                                    {
+                                                      "data": "\n\t\t",
+                                                      "type": "text",
+                                                      "next": {
+                                                        "type": "tag",
+                                                        "name": "td",
+                                                        "attribs": {
+                                                          "bgcolor": "#c08000",
+                                                          "align": "left"
+                                                        },
+                                                        "children": [
+                                                          {
+                                                            "data": "\n\t\t\t",
+                                                            "type": "text",
+                                                            "next": {
+                                                              "type": "tag",
+                                                              "name": "font",
+                                                              "attribs": {
+                                                                "size": "+1"
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "type": "tag",
+                                                                  "name": "b",
+                                                                  "attribs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "tag",
+                                                                      "name": "i",
+                                                                      "attribs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "data": "QDB",
+                                                                          "type": "text",
+                                                                          "next": null,
+                                                                          "prev": null
+                                                                        }
+                                                                      ],
+                                                                      "next": null,
+                                                                      "prev": null
+                                                                    }
+                                                                  ],
+                                                                  "next": null,
+                                                                  "prev": null
+                                                                }
+                                                              ],
+                                                              "next": {
+                                                                "data": "\n\t\t",
+                                                                "type": "text",
+                                                                "next": {
+                                                                  "type": "tag",
+                                                                  "name": "a",
+                                                                  "attribs": {
+                                                                    "href": "./?admin"
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "tag",
+                                                                      "name": "font",
+                                                                      "attribs": {
+                                                                        "size": "-1",
+                                                                        "color": "#c08000"
+                                                                      },
+                                                                      "children": [
+                                                                        {
+                                                                          "data": "Admin",
+                                                                          "type": "text",
+                                                                          "next": null,
+                                                                          "prev": null
+                                                                        }
+                                                                      ],
+                                                                      "next": null,
+                                                                      "prev": null
+                                                                    }
+                                                                  ],
+                                                                  "next": null
+                                                                }
+                                                              }
+                                                            },
+                                                            "prev": null
+                                                          },
+                                                          null,
+                                                          null,
+                                                          null
+                                                        ],
+                                                        "next": {
+                                                          "data": "\n\t\t\n\t\t",
+                                                          "type": "text",
+                                                          "next": {
+                                                            "type": "tag",
+                                                            "name": "td",
+                                                            "attribs": {
+                                                              "bgcolor": "#c08000",
+                                                              "align": "right"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "data": "\n\t\t\t",
+                                                                "type": "text",
+                                                                "next": {
+                                                                  "type": "tag",
+                                                                  "name": "font",
+                                                                  "attribs": {
+                                                                    "face": "arial",
+                                                                    "size": "+1"
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "type": "tag",
+                                                                      "name": "b",
+                                                                      "attribs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "data": "Quote Database Home",
+                                                                          "type": "text",
+                                                                          "next": null,
+                                                                          "prev": null
+                                                                        }
+                                                                      ],
+                                                                      "next": null,
+                                                                      "prev": null
+                                                                    }
+                                                                  ],
+                                                                  "next": {
+                                                                    "type": "tag",
+                                                                    "name": "br",
+                                                                    "attribs": {},
+                                                                    "children": [],
+                                                                    "next": null
+                                                                  }
+                                                                },
+                                                                "prev": null
+                                                              },
+                                                              null,
+                                                              null
+                                                            ],
+                                                            "next": {
+                                                              "data": "\n\t",
+                                                              "type": "text",
+                                                              "next": null
+                                                            }
+                                                          }
+                                                        }
+                                                      },
+                                                      "prev": null
+                                                    },
+                                                    null,
+                                                    null,
+                                                    null,
+                                                    null
+                                                  ],
+                                                  "next": null
+                                                },
+                                                "prev": null
+                                              },
+                                              null
+                                            ],
+                                            "next": {
+                                              "data": "\n\t",
+                                              "type": "text",
+                                              "next": {
+                                                "type": "tag",
+                                                "name": "table",
+                                                "attribs": {
+                                                  "cellpadding": "2",
+                                                  "cellspacing": "0",
+                                                  "width": "80%",
+                                                  "border": "0"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": "\n\t",
+                                                    "type": "text",
+                                                    "next": {
+                                                      "type": "tag",
+                                                      "name": "tr",
+                                                      "attribs": {},
+                                                      "children": [
+                                                        {
+                                                          "data": "\n\t\t",
+                                                          "type": "text",
+                                                          "next": {
+                                                            "type": "tag",
+                                                            "name": "td",
+                                                            "attribs": {
+                                                              "align": "right",
+                                                              "bgcolor": "#f0f0f0",
+                                                              "class": "toplinks",
+                                                              "colspan": "2"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "data": "\n ",
+                                                                "type": "text",
+                                                                "next": {
+                                                                  "type": "tag",
+                                                                  "name": "a",
+                                                                  "attribs": {
+                                                                    "href": "./"
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "data": "Home",
+                                                                      "type": "text",
+                                                                      "next": null,
+                                                                      "prev": null
+                                                                    }
+                                                                  ],
+                                                                  "next": {
+                                                                    "data": " / ",
+                                                                    "type": "text",
+                                                                    "next": {
+                                                                      "type": "tag",
+                                                                      "name": "a",
+                                                                      "attribs": {
+                                                                        "href": "./?latest"
+                                                                      },
+                                                                      "children": [
+                                                                        {
+                                                                          "data": "Latest",
+                                                                          "type": "text",
+                                                                          "next": null,
+                                                                          "prev": null
+                                                                        }
+                                                                      ],
+                                                                      "next": {
+                                                                        "data": " / ",
+                                                                        "type": "text",
+                                                                        "next": {
+                                                                          "type": "tag",
+                                                                          "name": "a",
+                                                                          "attribs": {
+                                                                            "href": "./?browse"
+                                                                          },
+                                                                          "children": [
+                                                                            {
+                                                                              "data": "Browse",
+                                                                              "type": "text",
+                                                                              "next": null,
+                                                                              "prev": null
+                                                                            }
+                                                                          ],
+                                                                          "next": {
+                                                                            "data": "\n / ",
+                                                                            "type": "text",
+                                                                            "next": {
+                                                                              "type": "tag",
+                                                                              "name": "a",
+                                                                              "attribs": {
+                                                                                "href": "./?random"
+                                                                              },
+                                                                              "children": [
+                                                                                {
+                                                                                  "data": "Random",
+                                                                                  "type": "text",
+                                                                                  "next": null,
+                                                                                  "prev": null
+                                                                                }
+                                                                              ],
+                                                                              "next": {
+                                                                                "data": " ",
+                                                                                "type": "text",
+                                                                                "next": {
+                                                                                  "type": "tag",
+                                                                                  "name": "a",
+                                                                                  "attribs": {
+                                                                                    "href": "./?random1"
+                                                                                  },
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "data": ">0",
+                                                                                      "type": "text",
+                                                                                      "next": null,
+                                                                                      "prev": null
+                                                                                    }
+                                                                                  ],
+                                                                                  "next": {
+                                                                                    "data": "\n / ",
+                                                                                    "type": "text",
+                                                                                    "next": {
+                                                                                      "type": "tag",
+                                                                                      "name": "a",
+                                                                                      "attribs": {
+                                                                                        "href": "./?top"
+                                                                                      },
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "data": "Top 100",
+                                                                                          "type": "text",
+                                                                                          "next": null,
+                                                                                          "prev": null
+                                                                                        }
+                                                                                      ],
+                                                                                      "next": {
+                                                                                        "type": "tag",
+                                                                                        "name": "a",
+                                                                                        "attribs": {
+                                                                                          "href": "./?top2"
+                                                                                        },
+                                                                                        "children": [
+                                                                                          {
+                                                                                            "data": "-200",
+                                                                                            "type": "text",
+                                                                                            "next": null,
+                                                                                            "prev": null
+                                                                                          }
+                                                                                        ],
+                                                                                        "next": {
+                                                                                          "data": " / ",
+                                                                                          "type": "text",
+                                                                                          "next": {
+                                                                                            "type": "tag",
+                                                                                            "name": "a",
+                                                                                            "attribs": {
+                                                                                              "href": "./?add"
+                                                                                            },
+                                                                                            "children": [
+                                                                                              {
+                                                                                                "type": "tag",
+                                                                                                "name": "b",
+                                                                                                "attribs": {},
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "data": "Add Quote",
+                                                                                                    "type": "text",
+                                                                                                    "next": null,
+                                                                                                    "prev": null
+                                                                                                  }
+                                                                                                ],
+                                                                                                "next": null,
+                                                                                                "prev": null
+                                                                                              }
+                                                                                            ],
+                                                                                            "next": {
+                                                                                              "data": "\n / ",
+                                                                                              "type": "text",
+                                                                                              "next": {
+                                                                                                "type": "tag",
+                                                                                                "name": "a",
+                                                                                                "attribs": {
+                                                                                                  "href": "modapp/"
+                                                                                                },
+                                                                                                "children": [
+                                                                                                  {
+                                                                                                    "data": "ModApp",
+                                                                                                    "type": "text",
+                                                                                                    "next": null,
+                                                                                                    "prev": null
+                                                                                                  }
+                                                                                                ],
+                                                                                                "next": {
+                                                                                                  "data": " / ",
+                                                                                                  "type": "text",
+                                                                                                  "next": {
+                                                                                                    "type": "tag",
+                                                                                                    "name": "a",
+                                                                                                    "attribs": {
+                                                                                                      "href": "./?search"
+                                                                                                    },
+                                                                                                    "children": [
+                                                                                                      {
+                                                                                                        "data": "Search",
+                                                                                                        "type": "text",
+                                                                                                        "next": null,
+                                                                                                        "prev": null
+                                                                                                      }
+                                                                                                    ],
+                                                                                                    "next": {
+                                                                                                      "data": " / ",
+                                                                                                      "type": "text",
+                                                                                                      "next": {
+                                                                                                        "type": "tag",
+                                                                                                        "name": "font",
+                                                                                                        "attribs": {
+                                                                                                          "class": "topnum"
+                                                                                                        },
+                                                                                                        "children": [
+                                                                                                          {
+                                                                                                            "data": "#",
+                                                                                                            "type": "text",
+                                                                                                            "next": null,
+                                                                                                            "prev": null
+                                                                                                          }
+                                                                                                        ],
+                                                                                                        "next": {
+                                                                                                          "data": " ",
+                                                                                                          "type": "text",
+                                                                                                          "next": {
+                                                                                                            "type": "tag",
+                                                                                                            "name": "input",
+                                                                                                            "attribs": {
+                                                                                                              "type": "text",
+                                                                                                              "name": "quote",
+                                                                                                              "class": "smalltext",
+                                                                                                              "size": "4"
+                                                                                                            },
+                                                                                                            "children": [],
+                                                                                                            "next": {
+                                                                                                              "data": "\n\t\t",
+                                                                                                              "type": "text",
+                                                                                                              "next": null
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "prev": null
+                                                              },
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null
+                                                            ],
+                                                            "next": {
+                                                              "data": "\n\t",
+                                                              "type": "text",
+                                                              "next": null
+                                                            }
+                                                          },
+                                                          "prev": null
+                                                        },
+                                                        null,
+                                                        null
+                                                      ],
+                                                      "next": {
+                                                        "data": "\n",
+                                                        "type": "text",
+                                                        "next": null
+                                                      }
+                                                    },
+                                                    "prev": null
+                                                  },
+                                                  null,
+                                                  null
+                                                ],
+                                                "next": {
+                                                  "data": "\n",
+                                                  "type": "text",
+                                                  "next": null
+                                                }
+                                              }
+                                            }
+                                          },
+                                          "prev": null
+                                        },
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                      ],
+                                      "next": null
+                                    },
+                                    "prev": null
+                                  },
+                                  null
+                                ],
+                                "next": {
+                                  "data": "\n",
+                                  "type": "text",
+                                  "next": {
+                                    "type": "tag",
+                                    "name": "p",
+                                    "attribs": {},
+                                    "children": [
+                                      {
+                                        "data": "\n\n",
+                                        "type": "text",
+                                        "next": {
+                                          "type": "tag",
+                                          "name": "center",
+                                          "attribs": {},
+                                          "children": [
+                                            {
+                                              "data": "\n",
+                                              "type": "text",
+                                              "next": {
+                                                "type": "tag",
+                                                "name": "table",
+                                                "attribs": {
+                                                  "cellpadding": "0",
+                                                  "cellspacing": "3",
+                                                  "width": "80%"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": "\n",
+                                                    "type": "text",
+                                                    "next": {
+                                                      "type": "tag",
+                                                      "name": "tr",
+                                                      "attribs": {},
+                                                      "children": [
+                                                        {
+                                                          "data": "\n\t",
+                                                          "type": "text",
+                                                          "next": {
+                                                            "type": "tag",
+                                                            "name": "td",
+                                                            "attribs": {
+                                                              "class": "bodytext",
+                                                              "width": "50%",
+                                                              "valign": "top"
+                                                            },
+                                                            "children": [
+                                                              {
+                                                                "data": "\n\t\t",
+                                                                "type": "text",
+                                                                "next": {
+                                                                  "type": "tag",
+                                                                  "name": "b",
+                                                                  "attribs": {},
+                                                                  "children": [
+                                                                    {
+                                                                      "data": "Welcome!",
+                                                                      "type": "text",
+                                                                      "next": null,
+                                                                      "prev": null
+                                                                    }
+                                                                  ],
+                                                                  "next": {
+                                                                    "data": "  Browse away to your amusement, and feel free to add some quotes yourself.\n\t\t",
+                                                                    "type": "text",
+                                                                    "next": {
+                                                                      "type": "tag",
+                                                                      "name": "p",
+                                                                      "attribs": {},
+                                                                      "children": [
+                                                                        {
+                                                                          "data": "\n\t\tIf you like or dislike a quote, vote with the + and - links.  If you feel that the quote doesn't deserve to be in the database at all, click its [X] link next to it; while the quote will not be removed from the database immediately, it will be resubmitted for review, and it is possible that it will be removed.",
+                                                                          "type": "text",
+                                                                          "next": null,
+                                                                          "prev": null
+                                                                        }
+                                                                      ],
+                                                                      "next": {
+                                                                        "type": "tag",
+                                                                        "name": "p",
+                                                                        "attribs": {},
+                                                                        "children": [
+                                                                          {
+                                                                            "data": "\n\t\t",
+                                                                            "type": "text",
+                                                                            "next": {
+                                                                              "type": "tag",
+                                                                              "name": "b",
+                                                                              "attribs": {},
+                                                                              "children": [
+                                                                                {
+                                                                                  "data": "Questions? Comments?",
+                                                                                  "type": "text",
+                                                                                  "next": null,
+                                                                                  "prev": null
+                                                                                }
+                                                                              ],
+                                                                              "next": {
+                                                                                "data": " ",
+                                                                                "type": "text",
+                                                                                "next": {
+                                                                                  "type": "tag",
+                                                                                  "name": "a",
+                                                                                  "attribs": {
+                                                                                    "href": "mailto:qdb@bash.org"
+                                                                                  },
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "data": "qdb@bash.org",
+                                                                                      "type": "text",
+                                                                                      "next": null,
+                                                                                      "prev": null
+                                                                                    }
+                                                                                  ],
+                                                                                  "next": {
+                                                                                    "type": "tag",
+                                                                                    "name": "br",
+                                                                                    "attribs": {},
+                                                                                    "children": [],
+                                                                                    "next": {
+                                                                                      "type": "tag",
+                                                                                      "name": "br",
+                                                                                      "attribs": {},
+                                                                                      "children": [],
+                                                                                      "next": {
+                                                                                        "data": "\n",
+                                                                                        "type": "text",
+                                                                                        "next": {
+                                                                                          "type": "tag",
+                                                                                          "name": "hr",
+                                                                                          "attribs": {},
+                                                                                          "children": [],
+                                                                                          "next": {
+                                                                                            "type": "tag",
+                                                                                            "name": "ul",
+                                                                                            "attribs": {},
+                                                                                            "children": [
+                                                                                              {
+                                                                                                "data": "    \n",
+                                                                                                "type": "text",
+                                                                                                "next": {
+                                                                                                  "type": "tag",
+                                                                                                  "name": "li",
+                                                                                                  "attribs": {},
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "data": "Quake I Server (",
+                                                                                                      "type": "text",
+                                                                                                      "next": {
+                                                                                                        "type": "tag",
+                                                                                                        "name": "i",
+                                                                                                        "attribs": {},
+                                                                                                        "children": [
+                                                                                                          {
+                                                                                                            "data": "offline",
+                                                                                                            "type": "text",
+                                                                                                            "next": null,
+                                                                                                            "prev": null
+                                                                                                          }
+                                                                                                        ],
+                                                                                                        "next": {
+                                                                                                          "data": ")\n",
+                                                                                                          "type": "text",
+                                                                                                          "next": null
+                                                                                                        }
+                                                                                                      },
+                                                                                                      "prev": null
+                                                                                                    },
+                                                                                                    null,
+                                                                                                    null
+                                                                                                  ],
+                                                                                                  "next": {
+                                                                                                    "type": "tag",
+                                                                                                    "name": "li",
+                                                                                                    "attribs": {},
+                                                                                                    "children": [
+                                                                                                      {
+                                                                                                        "data": "Streaming Audio project (",
+                                                                                                        "type": "text",
+                                                                                                        "next": {
+                                                                                                          "type": "tag",
+                                                                                                          "name": "i",
+                                                                                                          "attribs": {},
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "data": "offline",
+                                                                                                              "type": "text",
+                                                                                                              "next": null,
+                                                                                                              "prev": null
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "next": {
+                                                                                                            "data": ")\n",
+                                                                                                            "type": "text",
+                                                                                                            "next": null
+                                                                                                          }
+                                                                                                        },
+                                                                                                        "prev": null
+                                                                                                      },
+                                                                                                      null,
+                                                                                                      null
+                                                                                                    ],
+                                                                                                    "next": {
+                                                                                                      "type": "tag",
+                                                                                                      "name": "li",
+                                                                                                      "attribs": {},
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "type": "tag",
+                                                                                                          "name": "a",
+                                                                                                          "attribs": {
+                                                                                                            "href": "images/animation.gif"
+                                                                                                          },
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "data": "Reader-submitted banner",
+                                                                                                              "type": "text",
+                                                                                                              "next": null,
+                                                                                                              "prev": null
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "next": {
+                                                                                                            "data": " / ",
+                                                                                                            "type": "text",
+                                                                                                            "next": {
+                                                                                                              "type": "tag",
+                                                                                                              "name": "a",
+                                                                                                              "attribs": {
+                                                                                                                "href": "images/logo.png"
+                                                                                                              },
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "data": "Button Logo",
+                                                                                                                  "type": "text",
+                                                                                                                  "next": null,
+                                                                                                                  "prev": null
+                                                                                                                }
+                                                                                                              ],
+                                                                                                              "next": {
+                                                                                                                "type": "tag",
+                                                                                                                "name": "br",
+                                                                                                                "attribs": {},
+                                                                                                                "children": [],
+                                                                                                                "next": {
+                                                                                                                  "data": "\n",
+                                                                                                                  "type": "text",
+                                                                                                                  "next": null
+                                                                                                                }
+                                                                                                              }
+                                                                                                            }
+                                                                                                          },
+                                                                                                          "prev": null
+                                                                                                        },
+                                                                                                        null,
+                                                                                                        null,
+                                                                                                        null,
+                                                                                                        null
+                                                                                                      ],
+                                                                                                      "next": {
+                                                                                                        "type": "tag",
+                                                                                                        "name": "li",
+                                                                                                        "attribs": {},
+                                                                                                        "children": [
+                                                                                                          {
+                                                                                                            "data": "Messy Desk Contest (",
+                                                                                                            "type": "text",
+                                                                                                            "next": {
+                                                                                                              "type": "tag",
+                                                                                                              "name": "i",
+                                                                                                              "attribs": {},
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "data": "offline",
+                                                                                                                  "type": "text",
+                                                                                                                  "next": null,
+                                                                                                                  "prev": null
+                                                                                                                }
+                                                                                                              ],
+                                                                                                              "next": {
+                                                                                                                "data": ")\n",
+                                                                                                                "type": "text",
+                                                                                                                "next": null
+                                                                                                              }
+                                                                                                            },
+                                                                                                            "prev": null
+                                                                                                          },
+                                                                                                          null,
+                                                                                                          null
+                                                                                                        ],
+                                                                                                        "next": {
+                                                                                                          "type": "tag",
+                                                                                                          "name": "li",
+                                                                                                          "attribs": {},
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "data": "Moderator Application (",
+                                                                                                              "type": "text",
+                                                                                                              "next": {
+                                                                                                                "type": "tag",
+                                                                                                                "name": "i",
+                                                                                                                "attribs": {},
+                                                                                                                "children": [
+                                                                                                                  {
+                                                                                                                    "data": "offline",
+                                                                                                                    "type": "text",
+                                                                                                                    "next": null,
+                                                                                                                    "prev": null
+                                                                                                                  }
+                                                                                                                ],
+                                                                                                                "next": {
+                                                                                                                  "data": ")\n",
+                                                                                                                  "type": "text",
+                                                                                                                  "next": null
+                                                                                                                }
+                                                                                                              },
+                                                                                                              "prev": null
+                                                                                                            },
+                                                                                                            null,
+                                                                                                            null
+                                                                                                          ],
+                                                                                                          "next": null
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                },
+                                                                                                "prev": null
+                                                                                              },
+                                                                                              null,
+                                                                                              null,
+                                                                                              null,
+                                                                                              null,
+                                                                                              null
+                                                                                            ],
+                                                                                            "next": {
+                                                                                              "data": "\n\t",
+                                                                                              "type": "text",
+                                                                                              "next": null
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            },
+                                                                            "prev": null
+                                                                          },
+                                                                          null,
+                                                                          null,
+                                                                          null,
+                                                                          null,
+                                                                          null,
+                                                                          null,
+                                                                          null,
+                                                                          null,
+                                                                          null
+                                                                        ],
+                                                                        "next": null
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                },
+                                                                "prev": null
+                                                              },
+                                                              null,
+                                                              null,
+                                                              null,
+                                                              null
+                                                            ],
+                                                            "next": {
+                                                              "data": "\n\t",
+                                                              "type": "text",
+                                                              "next": {
+                                                                "type": "tag",
+                                                                "name": "td",
+                                                                "attribs": {
+                                                                  "width": "1",
+                                                                  "bgcolor": "#c08000"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "type": "tag",
+                                                                    "name": "font",
+                                                                    "attribs": {
+                                                                      "size": "1",
+                                                                      "color": "#c08000"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "data": "|",
+                                                                        "type": "text",
+                                                                        "next": null,
+                                                                        "prev": null
+                                                                      }
+                                                                    ],
+                                                                    "next": null,
+                                                                    "prev": null
+                                                                  }
+                                                                ],
+                                                                "next": {
+                                                                  "data": "\n\t",
+                                                                  "type": "text",
+                                                                  "next": {
+                                                                    "type": "tag",
+                                                                    "name": "td",
+                                                                    "attribs": {
+                                                                      "class": "bodytext",
+                                                                      "width": "50%",
+                                                                      "valign": "top"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "data": "\n\t\t",
+                                                                        "type": "text",
+                                                                        "next": {
+                                                                          "type": "tag",
+                                                                          "name": "p",
+                                                                          "attribs": {},
+                                                                          "children": [
+                                                                            {
+                                                                              "data": "\n",
+                                                                              "type": "text",
+                                                                              "next": {
+                                                                                "type": "tag",
+                                                                                "name": "b",
+                                                                                "attribs": {},
+                                                                                "children": [
+                                                                                  {
+                                                                                    "data": "2017-02-28",
+                                                                                    "type": "text",
+                                                                                    "next": null,
+                                                                                    "prev": null
+                                                                                  }
+                                                                                ],
+                                                                                "next": {
+                                                                                  "type": "tag",
+                                                                                  "name": "br",
+                                                                                  "attribs": {},
+                                                                                  "children": [],
+                                                                                  "next": {
+                                                                                    "data": "\nQueue now at zero. Fixed PHP encoding issues that caused some quotes to not be displayed. Changed voting button behavior to popup instead of browsing away. Blocking the popups will not affect your ability to vote.",
+                                                                                    "type": "text",
+                                                                                    "next": {
+                                                                                      "type": "tag",
+                                                                                      "name": "br",
+                                                                                      "attribs": {},
+                                                                                      "children": [],
+                                                                                      "next": {
+                                                                                        "type": "tag",
+                                                                                        "name": "br",
+                                                                                        "attribs": {},
+                                                                                        "children": [],
+                                                                                        "next": {
+                                                                                          "data": "\n",
+                                                                                          "type": "text",
+                                                                                          "next": {
+                                                                                            "type": "tag",
+                                                                                            "name": "b",
+                                                                                            "attribs": {},
+                                                                                            "children": [
+                                                                                              {
+                                                                                                "data": "2017-02-21",
+                                                                                                "type": "text",
+                                                                                                "next": null,
+                                                                                                "prev": null
+                                                                                              }
+                                                                                            ],
+                                                                                            "next": {
+                                                                                              "type": "tag",
+                                                                                              "name": "br",
+                                                                                              "attribs": {},
+                                                                                              "children": [],
+                                                                                              "next": {
+                                                                                                "data": "\n",
+                                                                                                "type": "text",
+                                                                                                "next": null
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              },
+                                                                              "prev": null
+                                                                            },
+                                                                            null,
+                                                                            null,
+                                                                            null,
+                                                                            null,
+                                                                            null,
+                                                                            null,
+                                                                            null,
+                                                                            null,
+                                                                            null
+                                                                          ],
+                                                                          "next": {
+                                                                            "type": "tag",
+                                                                            "name": "h2",
+                                                                            "attribs": {},
+                                                                            "children": [
+                                                                              {
+                                                                                "type": "tag",
+                                                                                "name": "a",
+                                                                                "attribs": {
+                                                                                  "href": "/?latest"
+                                                                                },
+                                                                                "children": [
+                                                                                  {
+                                                                                    "data": "NEW CONTENT ROLLING IN!",
+                                                                                    "type": "text",
+                                                                                    "next": null,
+                                                                                    "prev": null
+                                                                                  }
+                                                                                ],
+                                                                                "next": null,
+                                                                                "prev": null
+                                                                              }
+                                                                            ],
+                                                                            "next": {
+                                                                              "data": "So, this time we ",
+                                                                              "type": "text",
+                                                                              "next": {
+                                                                                "type": "tag",
+                                                                                "name": "b",
+                                                                                "attribs": {},
+                                                                                "children": [
+                                                                                  {
+                                                                                    "data": "really",
+                                                                                    "type": "text",
+                                                                                    "next": null,
+                                                                                    "prev": null
+                                                                                  }
+                                                                                ],
+                                                                                "next": {
+                                                                                  "data": " fixed modding.  We also changed the behavior of the \"latest quotes\" function to display the most recently approved quotes, irrespective of the order it was submitted.",
+                                                                                  "type": "text",
+                                                                                  "next": {
+                                                                                    "type": "tag",
+                                                                                    "name": "br",
+                                                                                    "attribs": {},
+                                                                                    "children": [],
+                                                                                    "next": {
+                                                                                      "type": "tag",
+                                                                                      "name": "br",
+                                                                                      "attribs": {},
+                                                                                      "children": [],
+                                                                                      "next": {
+                                                                                        "data": "\n",
+                                                                                        "type": "text",
+                                                                                        "next": {
+                                                                                          "type": "tag",
+                                                                                          "name": "br",
+                                                                                          "attribs": {},
+                                                                                          "children": [],
+                                                                                          "next": {
+                                                                                            "data": "Managers: ",
+                                                                                            "type": "text",
+                                                                                            "next": {
+                                                                                              "type": "tag",
+                                                                                              "name": "a",
+                                                                                              "attribs": {
+                                                                                                "href": "?search=Ninety"
+                                                                                              },
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "data": "Ninety",
+                                                                                                  "type": "text",
+                                                                                                  "next": null,
+                                                                                                  "prev": null
+                                                                                                }
+                                                                                              ],
+                                                                                              "next": {
+                                                                                                "data": " ",
+                                                                                                "type": "text",
+                                                                                                "next": {
+                                                                                                  "type": "tag",
+                                                                                                  "name": "br",
+                                                                                                  "attribs": {},
+                                                                                                  "children": [],
+                                                                                                  "next": {
+                                                                                                    "data": "\nModerators: ",
+                                                                                                    "type": "text",
+                                                                                                    "next": {
+                                                                                                      "type": "tag",
+                                                                                                      "name": "a",
+                                                                                                      "attribs": {
+                                                                                                        "href": "./?search=Amanda"
+                                                                                                      },
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "data": "Amanda",
+                                                                                                          "type": "text",
+                                                                                                          "next": null,
+                                                                                                          "prev": null
+                                                                                                        }
+                                                                                                      ],
+                                                                                                      "next": {
+                                                                                                        "data": ", \n",
+                                                                                                        "type": "text",
+                                                                                                        "next": {
+                                                                                                          "type": "tag",
+                                                                                                          "name": "a",
+                                                                                                          "attribs": {
+                                                                                                            "href": "?search=vx0"
+                                                                                                          },
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "data": "vx0",
+                                                                                                              "type": "text",
+                                                                                                              "next": null,
+                                                                                                              "prev": null
+                                                                                                            }
+                                                                                                          ],
+                                                                                                          "next": {
+                                                                                                            "data": ",   \n",
+                                                                                                            "type": "text",
+                                                                                                            "next": {
+                                                                                                              "type": "tag",
+                                                                                                              "name": "a",
+                                                                                                              "attribs": {
+                                                                                                                "href": "?search=kastein"
+                                                                                                              },
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "data": "kastein",
+                                                                                                                  "type": "text",
+                                                                                                                  "next": null,
+                                                                                                                  "prev": null
+                                                                                                                }
+                                                                                                              ],
+                                                                                                              "next": {
+                                                                                                                "data": "   \n",
+                                                                                                                "type": "text",
+                                                                                                                "next": null
+                                                                                                              }
+                                                                                                            }
+                                                                                                          }
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "prev": null
+                                                                      },
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null
+                                                                    ],
+                                                                    "next": null
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          },
+                                                          "prev": null
+                                                        },
+                                                        null,
+                                                        null,
+                                                        null,
+                                                        null,
+                                                        null
+                                                      ],
+                                                      "next": null
+                                                    },
+                                                    "prev": null
+                                                  },
+                                                  null
+                                                ],
+                                                "next": null
+                                              },
+                                              "prev": null
+                                            },
+                                            null
+                                          ],
+                                          "next": null
+                                        },
+                                        "prev": null
+                                      },
+                                      null
+                                    ],
+                                    "next": {
+                                      "type": "tag",
+                                      "name": "br",
+                                      "attribs": {},
+                                      "children": [],
+                                      "next": {
+                                        "data": "\n",
+                                        "type": "text",
+                                        "next": {
+                                          "type": "tag",
+                                          "name": "center",
+                                          "attribs": {},
+                                          "children": [
+                                            {
+                                              "data": "\n",
+                                              "type": "text",
+                                              "next": {
+                                                "type": "tag",
+                                                "name": "table",
+                                                "attribs": {
+                                                  "cellpadding": "0",
+                                                  "cellspacing": "0",
+                                                  "width": "80%",
+                                                  "border": "0"
+                                                },
+                                                "children": [
+                                                  {
+                                                    "data": "\n",
+                                                    "type": "text",
+                                                    "next": {
+                                                      "type": "tag",
+                                                      "name": "tr",
+                                                      "attribs": {},
+                                                      "children": [
+                                                        {
+                                                          "type": "tag",
+                                                          "name": "td",
+                                                          "attribs": {
+                                                            "class": "bodytext",
+                                                            "align": "center"
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "data": "\n",
+                                                              "type": "text",
+                                                              "next": {
+                                                                "type": "tag",
+                                                                "name": "a",
+                                                                "attribs": {
+                                                                  "href": "https://www.paypal.com/xclick/business=donate@bash.org&item_name=Bash.org+Donation"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "data": "\n",
+                                                                    "type": "text",
+                                                                    "next": {
+                                                                      "type": "tag",
+                                                                      "name": "img",
+                                                                      "attribs": {
+                                                                        "src": "images/paypal.gif",
+                                                                        "border": "0",
+                                                                        "width": "62",
+                                                                        "height": "31"
+                                                                      },
+                                                                      "children": [],
+                                                                      "next": null
+                                                                    },
+                                                                    "prev": null
+                                                                  },
+                                                                  null
+                                                                ],
+                                                                "next": {
+                                                                  "data": "\n",
+                                                                  "type": "text",
+                                                                  "next": null
+                                                                }
+                                                              },
+                                                              "prev": null
+                                                            },
+                                                            null,
+                                                            null
+                                                          ],
+                                                          "next": null,
+                                                          "prev": null
+                                                        }
+                                                      ],
+                                                      "next": {
+                                                        "data": "\n",
+                                                        "type": "text",
+                                                        "next": {
+                                                          "type": "tag",
+                                                          "name": "tr",
+                                                          "attribs": {},
+                                                          "children": [
+                                                            {
+                                                              "type": "tag",
+                                                              "name": "td",
+                                                              "attribs": {
+                                                                "class": "footertext",
+                                                                "align": "center"
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "type": "tag",
+                                                                  "name": "font",
+                                                                  "attribs": {
+                                                                    "size": "1",
+                                                                    "class": "footertext"
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "data": "\n",
+                                                                      "type": "text",
+                                                                      "next": null,
+                                                                      "prev": null
+                                                                    }
+                                                                  ],
+                                                                  "next": null,
+                                                                  "prev": null
+                                                                }
+                                                              ],
+                                                              "next": null,
+                                                              "prev": null
+                                                            }
+                                                          ],
+                                                          "next": null
+                                                        }
+                                                      }
+                                                    },
+                                                    "prev": null
+                                                  },
+                                                  null,
+                                                  null,
+                                                  null
+                                                ],
+                                                "next": {
+                                                  "data": "\n",
+                                                  "type": "text",
+                                                  "next": {
+                                                    "type": "tag",
+                                                    "name": "p",
+                                                    "attribs": {},
+                                                    "children": [
+                                                      {
+                                                        "data": "\n",
+                                                        "type": "text",
+                                                        "next": {
+                                                          "type": "tag",
+                                                          "name": "center",
+                                                          "attribs": {},
+                                                          "children": [
+                                                            {
+                                                              "data": "\n",
+                                                              "type": "text",
+                                                              "next": {
+                                                                "type": "tag",
+                                                                "name": "table",
+                                                                "attribs": {
+                                                                  "border": "0",
+                                                                  "cellpadding": "2",
+                                                                  "cellspacing": "0",
+                                                                  "width": "80%",
+                                                                  "bgcolor": "#c08000"
+                                                                },
+                                                                "children": [
+                                                                  {
+                                                                    "type": "tag",
+                                                                    "name": "tr",
+                                                                    "attribs": {},
+                                                                    "children": [
+                                                                      {
+                                                                        "type": "tag",
+                                                                        "name": "td",
+                                                                        "attribs": {
+                                                                          "class": "footertext",
+                                                                          "align": "right"
+                                                                        },
+                                                                        "children": [
+                                                                          {
+                                                                            "data": " 21096 quotes approved; 1933 quotes pending",
+                                                                            "type": "text",
+                                                                            "next": null,
+                                                                            "prev": null
+                                                                          }
+                                                                        ],
+                                                                        "next": {
+                                                                          "data": "\n",
+                                                                          "type": "text",
+                                                                          "next": null
+                                                                        },
+                                                                        "prev": null
+                                                                      },
+                                                                      null
+                                                                    ],
+                                                                    "next": {
+                                                                      "data": "\n",
+                                                                      "type": "text",
+                                                                      "next": null
+                                                                    },
+                                                                    "prev": null
+                                                                  },
+                                                                  null
+                                                                ],
+                                                                "next": {
+                                                                  "data": "\n\n",
+                                                                  "type": "text",
+                                                                  "next": {
+                                                                    "type": "tag",
+                                                                    "name": "font",
+                                                                    "attribs": {
+                                                                      "size": "-1"
+                                                                    },
+                                                                    "children": [
+                                                                      {
+                                                                        "data": "\n",
+                                                                        "type": "text",
+                                                                        "next": {
+                                                                          "type": "tag",
+                                                                          "name": "a",
+                                                                          "attribs": {
+                                                                            "href": "http://www.idologic.com"
+                                                                          },
+                                                                          "children": [
+                                                                            {
+                                                                              "data": "Hosted by Idologic: high quality reseller and dedicated hosting.",
+                                                                              "type": "text",
+                                                                              "next": null,
+                                                                              "prev": null
+                                                                            }
+                                                                          ],
+                                                                          "next": {
+                                                                            "data": "\n",
+                                                                            "type": "text",
+                                                                            "next": {
+                                                                              "type": "tag",
+                                                                              "name": "br",
+                                                                              "attribs": {},
+                                                                              "children": [],
+                                                                              "next": {
+                                                                                "data": "\n© QDB 1999-2023, All Rights Reserved.\n",
+                                                                                "type": "text",
+                                                                                "next": null
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        },
+                                                                        "prev": null
+                                                                      },
+                                                                      null,
+                                                                      null,
+                                                                      null,
+                                                                      null
+                                                                    ],
+                                                                    "next": {
+                                                                      "data": "\n",
+                                                                      "type": "text",
+                                                                      "next": null
+                                                                    }
+                                                                  }
+                                                                }
+                                                              },
+                                                              "prev": null
+                                                            },
+                                                            null,
+                                                            null,
+                                                            null,
+                                                            null
+                                                          ],
+                                                          "next": {
+                                                            "data": "\n\n",
+                                                            "type": "text",
+                                                            "next": null
+                                                          }
+                                                        },
+                                                        "prev": null
+                                                      },
+                                                      null,
+                                                      null
+                                                    ],
+                                                    "next": null
+                                                  }
+                                                }
+                                              },
+                                              "prev": null
+                                            },
+                                            null,
+                                            null,
+                                            null
+                                          ],
+                                          "next": null
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "prev": null
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                      ],
+                      "next": {
+                        "data": "\n",
+                        "type": "text",
+                        "next": null
+                      }
+                    }
+                  }
+                },
+                "prev": null
+              },
+              null,
+              null,
+              null,
+              null
+            ],
+            "next": {
+              "data": "\n",
+              "type": "text",
+              "next": null,
+              "parent": null
+            },
+            "parent": null
+          },
+          "parent": null
+        },
+        "prev": null,
+        "parent": null
+      },
+      null,
+      null,
+      null
+    ],
+    "next": null,
+    "prev": null,
+    "parent": null
+  },
+  "options": {
+    "withDomLvl1": true,
+    "normalizeWhitespace": false,
+    "xmlMode": false,
+    "decodeEntities": true
+  },
+  "length": 1
+}

@@ -1,0 +1,19 @@
+{
+  "name": "scrap-json-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:belkamax05/scrap-json-demo.git",
+  "author": "Maksym Bondarchuk <maksym.bondarchuk@wundermanthompson.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc --project tsconfig.json && node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "axios": "^1.3.3",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "html-to-json": "^0.6.0"
+  }
+}
